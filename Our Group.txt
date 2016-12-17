@@ -1,0 +1,15 @@
+BSC-UCD-CSC-15.1-063	Chulan Kumara
+BSC-UCD-CSC-15.1-088	Samintha Kaveesh
+BSC-UCD-CSC-15.1-091    Kalana Wijesekara
+BSC-UGC-MIS-15.1-012    Sandun Nimsara
+
+
+
+
+
+
+
+
+
+
+NOTE: 	"README (BASIC CONFIGURATIONS)" Folder Includes Database Configurations. 
